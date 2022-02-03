@@ -1,0 +1,8 @@
+name: PoolSumo
+version: 0.3.1-alpha
+main: zkyubz.poolcraft.lobbygames.poolsumo.MainShit
+api-version: 1.15
+commands:
+  sumo:
+    description: F
+    usage: /<command>
